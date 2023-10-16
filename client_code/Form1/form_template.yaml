@@ -20,10 +20,6 @@ components:
     type: RadioButton
     layout_properties: {grid_position: 'HXFBUQ,BTIXRN', full_width_row: false}
     event_bindings: {change: radio_button_1_change}
-  - name: button_1
-    properties: {text: button_1}
-    type: Button
-    layout_properties: {grid_position: 'SCUBPX,CPIGFY'}
 - type: FlowPanel
   properties: {}
   name: navbar_links
