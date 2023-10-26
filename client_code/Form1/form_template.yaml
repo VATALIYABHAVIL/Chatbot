@@ -1,3 +1,11 @@
 container: {type: ColumnPanel}
-components: []
+components:
+- name: text_area_1
+  properties: {height: 321, visible: true, enabled: true}
+  type: TextArea
+  layout_properties: {grid_position: 'BUDRHB,AYXCIM'}
+- name: Search
+  properties: {}
+  type: TextBox
+  layout_properties: {grid_position: 'TBZKTE,JVZEEA'}
 is_package: true
